@@ -58,8 +58,8 @@ This project was inspired by UpGrad IITB Programme as a case study for the Machi
 
 ## Contributors
 
-Arjun Kumar
-Aratrika Chaudhury
+- Arjun Kumar
+- Aratrika Chaudhury
 
 
 
